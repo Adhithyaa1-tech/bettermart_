@@ -14,7 +14,7 @@ app.use(
       origin: ["http://localhost:3000", "https://BetterMart.onrender.com"]
     })
 );
-
+                                                                                                                                                      
 dotenv.config({
   path: "backend/config/config.env"
 });
